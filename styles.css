@@ -1,0 +1,12 @@
+
+
+div.container {
+    box-sizing: border-box;
+}
+div.card{
+    position: relative;
+    padding: 0rem;
+    margin: 10rem;
+    width: 50rem;
+}
+
